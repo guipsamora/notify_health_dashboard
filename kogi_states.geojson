@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokoja"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[6.75, 7.8], [6.85, 7.8], [6.85, 7.9], [6.75, 7.9], [6.75, 7.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[7.75, 7.8], [7.85, 7.8], [7.85, 7.9], [7.75, 7.9], [6.75, 7.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okene"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[6.75, 7.8], [6.85, 7.8], [6.85, 7.9], [6.75, 7.9], [6.75, 7.8]]]
+      }
+    }
+  ]
+}
